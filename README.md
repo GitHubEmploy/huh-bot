@@ -1,2 +1,3 @@
-# HUHBot
-HUH discord bot for Dank memes galaxy server
+# Huh Bot
+
+Discord bot for server management, moderation, and utility commands.
